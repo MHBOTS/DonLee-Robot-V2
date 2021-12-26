@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-🤖 𝐃𝐎𝐍 𝐋𝐄𝐄 𝐑𝐎𝐁𝐎𝐓 𝐕𝟐 🤖
+MOVIE HUB BOT
 </p>
 
 <p align="center">
@@ -15,12 +15,18 @@
 <a href="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/main/LICENSE"><img alt="github" src="https://img.shields.io/badge/License-AGPL-blue"/></a>
 </p>
 
-👋Hey <a href="https://telegram.dog/Mrk_YT">Muhammed</a>, Iam <a href="https://telegram.me/Donlee_Robot">DonLee RoBoT</a>
-Make me an admin for your group and channel then connect me....🎉
-🙂To build a DonLee robot V2 like me, click on the <a href="https://telegram.dog/Donlee_Robot">/subscribe</a> command
-Subscribe to the update channel to learn about my updates and activity...
+👋Hey <a href="https://telegram.dog/Mrk_YT">Muhammed</a>, Iam a AutoFiter Bot</a>
+
+Only  MOVIE HUB  Subscribers can use me.
+If you didn't subscribed, subscribe Now:https://t.me/Movie_Hub_Offical.
+
+If you don't get your content, contact my admin...feel free to ask..
+
+  @Agrah_M
+
+
 Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a> Command for more information
-🧒 Maintained By <a href="https://t.me/Mrk_yt">This Person</a>     
+    
    
 ----
 
